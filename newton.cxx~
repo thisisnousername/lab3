@@ -16,7 +16,7 @@ int main(){
 	complex<double> z0;
 	complex<double> z;
 	complex<double> dz;
-	double step = 0.25;
+	double step = 0.3;
 	int i;
 
 	for(double k=-2; k <=2; k+= step){
