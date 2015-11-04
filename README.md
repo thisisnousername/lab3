@@ -1,2 +1,3 @@
 # lab3
-Lab class 3, Complex Numbers
+## Complex numbers
+![alt text](stuffy_stuff/problem.png "problem.png")
